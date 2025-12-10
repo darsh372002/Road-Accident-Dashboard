@@ -117,11 +117,3 @@ Data Storytelling
 
 📷 Screenshots
 <img width="1919" height="1022" alt="Screenshot 2025-12-10 095313" src="https://github.com/user-attachments/assets/4e2516fd-2fdb-4cd6-91dc-2e5bf0210ec1" />
-
-
-
-
-
-📩 Contact
-
-If you’d like the Excel file or want to collaborate, feel free to reach out!
